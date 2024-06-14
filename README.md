@@ -1,5 +1,14 @@
 # Gachon_iot002_Team6
-Proposal (Plan)
+Team
+Kim Jaeyoung
+Lim Hyungsub
+Kang Hyunjoon
+Kim Juhye
+
+# Brief Description
+Develop a system using Wi-Fi sensing technology on Raspberry Pi to identify human activities or states in indoor environments 
+
+# Proposal (Plan)
 Our team aims to develop a system using Wi-Fi sensing technology to identify human activities or states in indoor environments. We plan to utilize Raspberry Pi to build a low-power system supporting various operating systems. The main objectives are as follows:
 1. Classify human activities and count the number of people
 2. Monitor sleep states using Wi-Fi sensing and treat insomnia
