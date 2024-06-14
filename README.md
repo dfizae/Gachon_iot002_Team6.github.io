@@ -43,4 +43,6 @@ Progress
 - Nexmon CSi
   - https://github.com/seemoo-lab/nexmon_csi
 
+- Nexmon Install Manual
+  - https://pio-ji.notion.site/Wi-Fi-Sensing-3c03bfbaa99c4cb8a7a40333278efff3
 
