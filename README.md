@@ -1,8 +1,9 @@
 # Gachon_iot002_Team6
 Team
-Kim Jaeyoung Lim Hyungsub
-Kang Hyunjoon
-Kim Juhye
+- Kim Jaeyoung 
+- Lim Hyungsub
+- Kang Hyunjoon
+- Kim Juhye
 
 # Brief Description
 Develop a system using Wi-Fi sensing technology on Raspberry Pi to identify human activities or states in indoor environments 
