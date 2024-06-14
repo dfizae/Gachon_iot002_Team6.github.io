@@ -1,4 +1,4 @@
-![image](https://github.com/dfizae/Gachon_iot002_Team6.github.io/assets/168699093/74e9a0bb-5de1-46c8-a7e6-5ddc1452d14f)<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 
 # Gachon_iot002_Team6
