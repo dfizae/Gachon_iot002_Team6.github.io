@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+![image](https://github.com/dfizae/Gachon_iot002_Team6.github.io/assets/168699093/74e9a0bb-5de1-46c8-a7e6-5ddc1452d14f)<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 
 # Gachon_iot002_Team6
@@ -45,4 +45,33 @@ Progress
 
 - Nexmon Install Manual
   - https://pio-ji.notion.site/Wi-Fi-Sensing-3c03bfbaa99c4cb8a7a40333278efff3
+
+- Raspberry pi AP Mode
+  - https://limjunho.github.io/2020/08/25/Raspberry-Pi-AP%EB%A7%8C%EB%93%A4%EA%B8%B0.html
+
+- PPT template
+  - https://yusaebyeol.blogspot.com/2022/07/powerpoint-template-free-download-ppt.html
+
+- CSI Extraction
+  - https://pio-ji.notion.site/CSI-3ddf719f41934575bddda406732b2ccf
+
+- What is Nexmon
+  - https://github.com/seemoo-lab/bcm-rpi3
+ 
+- What is Raspberry Pi
+  - https://opensource.com/resources/raspberry-pi
+
+- gigasheet, Convert PCAP to CSV
+  - https://www.gigasheet.com/popular-tools/convert-pcap-to-csv
+
+- Convert PCAP to CSV
+  - https://github.com/cheeseBG/pcap-to-csv
+
+- CSI real time Visualization
+  - https://github.com/cheeseBG/csi-visualization
+
+
+
+
+
 
