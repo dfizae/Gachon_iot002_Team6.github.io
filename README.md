@@ -1,7 +1,6 @@
 # Gachon_iot002_Team6
 Team
-Kim Jaeyoung
-Lim Hyungsub
+Kim Jaeyoung Lim Hyungsub
 Kang Hyunjoon
 Kim Juhye
 
