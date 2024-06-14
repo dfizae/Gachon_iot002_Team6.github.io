@@ -1,4 +1,4 @@
-# dfizae.github.io
+# Gachon_iot002_Team6
 Proposal (Plan)
 Our team aims to develop a system using Wi-Fi sensing technology to identify human activities or states in indoor environments. We plan to utilize Raspberry Pi to build a low-power system supporting various operating systems. The main objectives are as follows:
 1. Classify human activities and count the number of people
